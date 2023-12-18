@@ -1,0 +1,2 @@
+# OraiMunkaSZF
+python gyakorlás
